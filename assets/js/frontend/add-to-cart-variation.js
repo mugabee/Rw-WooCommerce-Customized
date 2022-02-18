@@ -68,7 +68,7 @@
 	};
 
 	/**
-	 * When a variation is hidden.
+	 * When a variation is hidden. or not avairable
 	 */
 	VariationForm.prototype.onHide = function( event ) {
 		event.preventDefault();
